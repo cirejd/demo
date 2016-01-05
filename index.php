@@ -115,7 +115,6 @@
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-    <script src="dist/js/bootstrap.min.js"></script>
     <script src="dist/js/bootstrap.js"></script>
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
     <script src="http://getbootstrap.com/dist/js/bootstrap.min.js"></script>
@@ -144,6 +143,6 @@
       <!-- /.modal-content --> 
       </div>
       <!-- /.modal-dialog --> 
-</div>
+      </div>
 
 </html>
